@@ -16,4 +16,6 @@ Many of the guides I have found on this subject assume you are a native to Raspe
 <ul>
   <li>Download the lastest version of the NOOB installer from <a href="http://downloads.raspberrypi.org/NOOBS_latest">here</a></li>
   <li>Insert your microSD card into it's adapter, and insert the whole thing into the SD card reader on your computer. Open up Disk Utility (on Mac) or similar software on Windows. Click to erase and format the disk - select the option FAT.</li>
+  <li>Unzip and copy all the files from the NOOB download onto your SD card. Once finished, eject the SD card from your computer - now we are ready to get started on the Pi.<li>
+  <li>Remove the microSD card from it's adapter and insert it into the Pi. Now, plug in your USB Keyboard/Mouse, HDMI monitor and the Pi's power cord - it should boot into the installer! Select Raspbian and click install.<li>
 </ul>
