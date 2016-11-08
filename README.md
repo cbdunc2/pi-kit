@@ -9,7 +9,7 @@ Turn a RaspberryPi 3 B into an Apple HomeKit bridge in order to control RF contr
 <a target="_blank" href="https://www.amazon.com/gp/product/B008MRZSH8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008MRZSH8&linkCode=as2&tag=camero013-20&linkId=5de1ad8851f4482fc38f0d12f5c10df4">Jumper Wires 20cm M/F </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=camero013-20&l=am2&o=1&a=B008MRZSH8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> - $5.86 <br>
 <a target="_blank" href="https://www.amazon.com/gp/product/B004ZIENBA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004ZIENBA&linkCode=as2&tag=camero013-20&linkId=482b7a072e66f47d0a7bd9cd046e467c">16GB MicroSD Card + Adapter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=camero013-20&l=am2&o=1&a=B004ZIENBA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> - $5.95 <br>
 <a target="_blank" href="https://www.amazon.com/gp/product/B01IHU0CEI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IHU0CEI&linkCode=as2&tag=camero013-20&linkId=0f4a3da314c16c300d3213133174b8ef">Micro USB Cable + Wall Adapter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=camero013-20&l=am2&o=1&a=B01IHU0CEI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> - $6.99<br>
-FREE Borrow a USB Keyboard/Mouse and an HDMI Monitor from a friend or another computer.
+FREE Borrow a USB Keyboard/Mouse and an HDMI Monitor from a friend or another computer. <br>
 FREE Whatever Dumb thing you want to be smart! <br>
 
 # Step 1: Set-Up your Pi
