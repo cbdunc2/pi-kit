@@ -13,7 +13,7 @@ FREE Whatever Dumb thing you want to be smart! <br>
 
 # Step 1: Set-Up your Pi
 Many of the guides I have found on this subject assume you are a native to RasperryPi and know how to get everything set-up. However, I will not assume that here, and will walk you through the general set-up of a RaspberryPi - so let's get started. <br>
-<li>
-  <ul>Download the lastest version of the NOOB installer from <a href="http://downloads.raspberrypi.org/NOOBS_latest">here</a></ul>
-  <ul>Insert your microSD card into it's adapter, and insert the whole thing into the SD card reader on your computer. Open up Disk Utility (on Mac) or similar software on Windows. Click to erase and format the disk - select the option FAT.</ul>
-</li>
+<ul>
+  <li>Download the lastest version of the NOOB installer from <a href="http://downloads.raspberrypi.org/NOOBS_latest">here</a></li>
+  <li>Insert your microSD card into it's adapter, and insert the whole thing into the SD card reader on your computer. Open up Disk Utility (on Mac) or similar software on Windows. Click to erase and format the disk - select the option FAT.</li>
+</ul>
